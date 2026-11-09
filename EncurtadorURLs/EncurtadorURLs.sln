@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36127.28 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EncurtadorURLs", "EncurtadorURLs\EncurtadorURLs.csproj", "{14B87E0C-394F-4885-9B76-0EE4234A15BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EncurtadorURLs.Tests", "EncurtadorURLs.Tests\EncurtadorURLs.Tests.csproj", "{0BDBFA25-442D-42CD-8160-1F9691BAE6B5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14B87E0C-394F-4885-9B76-0EE4234A15BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14B87E0C-394F-4885-9B76-0EE4234A15BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14B87E0C-394F-4885-9B76-0EE4234A15BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14B87E0C-394F-4885-9B76-0EE4234A15BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0BDBFA25-442D-42CD-8160-1F9691BAE6B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BDBFA25-442D-42CD-8160-1F9691BAE6B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BDBFA25-442D-42CD-8160-1F9691BAE6B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BDBFA25-442D-42CD-8160-1F9691BAE6B5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B52ECFF5-1315-4229-995B-B58B7A1FCB51}
+	EndGlobalSection
+EndGlobal
